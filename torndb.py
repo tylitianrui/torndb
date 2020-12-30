@@ -41,6 +41,7 @@ try:
     import pymysql.connections
     import pymysql.converters
     import pymysql.cursors
+    import pymysql.constants.FLAG
 
 
 except ImportError:
